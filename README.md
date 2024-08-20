@@ -3,7 +3,7 @@
 I'm CyberSecurity Profissional
 
 ## Languages and Technologies
-I have experience with a variety of languages and technologies, including 
+I have experience with a variety of languages and technologies, including:
   <div style="display: inline_block">
    <img align="center" alt="nodejs" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img align="center" alt="css" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
